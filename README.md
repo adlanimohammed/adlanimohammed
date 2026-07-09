@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="assets/images/gmail.svg" height="50" />
+    <img src="assets/images/gmail.svg" height="100" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="assets/images/linkedin.svg" height="40" />
