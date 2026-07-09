@@ -17,13 +17,13 @@
 ### 🛠️ Top Technical Skills
 
 <div style="display:flex; align-items:flex-start; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="70" />
+  <img src="https://skillicons.dev/icons?i=css" height="70" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" />
+  <img src="https://skillicons.dev/icons?i=php" height="70" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" />
+  <img src="https://skillicons.dev/icons?i=python" height="70" />
+  <img src="https://skillicons.dev/icons?i=react" height="70" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" />
+  <img src="https://skillicons.dev/icons?i=git" height="70" />
 </div>
