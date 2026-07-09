@@ -2,18 +2,28 @@
 
 ### 📫 Connect & Competitive Programming
 
-<p align="left">
-  <div style="display:flex; align-items:flex-end; gap:10px;">
-  <a href="mailto:adlanimohammedcontact@gmail.com">
-    <img src="assets/images/gmail(3).svg" width="70px" />
-  </a>
-  <a href="https://www.linkedin.com/in/adlanimohammed/">
-    <img src="assets/images/linkedin(1).svg" width="70px" />
-  </a>
-  <a href="https://leetcode.com/u/adlanimohammed/">
-    <img src="assets/images/leetcode.svg" width="70px" />
-  </a>
+  <div style="display:flex; align-items:flex-start; gap:10px;">
+    <a href="mailto:adlanimohammedcontact@gmail.com">
+      <img src="assets/images/gmail(3).svg" width="70px" />
+    </a>
+    <a href="https://www.linkedin.com/in/adlanimohammed/">
+      <img src="assets/images/linkedin(1).svg" width="70px" />
+    </a>
+    <a href="https://leetcode.com/u/adlanimohammed/">
+      <img src="assets/images/leetcode.svg" width="70px" />
+    </a>
   </div>
-</p>
 
 ### 🛠️ Top Technical Skills
+
+<div style="display:flex; align-items:flex-start; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+</div>
