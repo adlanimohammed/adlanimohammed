@@ -8,7 +8,7 @@
     <img src="assets/images/gmail(3).svg" width="70px" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="assets/images/linkedin.svg" width="70px" />
+    <img src="assets/images/linkedin(1).svg" width="70px" />
   </a>
   <a href="https://leetcode.com/YOUR-LEETCODE">
     <img src="assets/images/leetcode.svg" width="70px" />
